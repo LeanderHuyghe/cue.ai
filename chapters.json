@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Travel & Adventure",
+    "description": "Students learn to describe trips, use travel-related vocabulary, and talk about experiences at airports and destinations.",
+    "vocabulary": ["luggage", "boarding pass", "customs", "delayed", "destination"],
+    "grammar": ["past tense for experiences", "asking questions politely"],
+    "sample_dialogues": [
+      "A: Where are you flying to? B: I’m going to London.",
+      "A: Did you pack your suitcase? B: Yes, I packed it last night."
+    ]
+  },
+  {
+    "title": "Food & Culture",
+    "description": "Students learn to discuss food habits, restaurants, and cultural traditions.",
+    "vocabulary": ["dish", "ingredient", "taste", "tradition", "celebration"],
+    "grammar": ["countable vs uncountable nouns", "comparatives and superlatives"],
+    "sample_dialogues": [
+      "A: What’s your favorite dish? B: I love Italian pasta.",
+      "A: Do you prefer sweet or salty food? B: Sweet, definitely!"
+    ]
+  },
+  {
+    "title": "School & Education",
+    "description": "Students learn to describe their school life, subjects, and daily routines.",
+    "vocabulary": ["subject", "homework", "exam", "classmate", "teacher"],
+    "grammar": ["present simple", "frequency adverbs"],
+    "sample_dialogues": [
+      "A: What’s your favorite subject? B: I really like history.",
+      "A: Do you have much homework? B: Yes, especially in math."
+    ]
+  }
+]
